@@ -18,6 +18,3 @@ To use this project, you can run the following commands:
 2. ./my_mastermind -c "1234" or ./my_mastermind -t "5" or ./my_mastermind -c "1234" -t "7"
 Hint: -c is followed by a string representing the secret code
       -t is followed by a string representing the assigned game attempts
-
-### Fullstack Developer
-Iliyasu Mohammed Awwal
